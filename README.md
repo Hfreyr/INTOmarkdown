@@ -27,7 +27,7 @@ Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu lið
   og tvíklikkaði a ubuntu dótið það setti sig sjálft eigilega upp eina
   sem ég þurfti að gera var að af klikka í usb2 í stillingum á
    virtualboxi þá var það komið  </p>**Þessi mynd vill ekki alveg koma inn hmmmm**
-![ ubuntu að ræsa sig ](12.jpg"12")
+![Mynd af tolvunni](12.jpg?raw=true)
 ## 2.
 <p>
 notaði leiðbeintingar á verkefninu og það gékk mjög vel 
