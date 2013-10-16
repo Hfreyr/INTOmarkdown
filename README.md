@@ -15,7 +15,8 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
   sem ég þurfti að gera var að af klikka í usb2 í stillingum á
    virtualboxi þá var það komið  </p>
 
-![](12.jpg?raw=true)
+![ ubuntu að ræsa sig ](12.jpg)
+
 ## 2. Uppsetning á vim && git
 
 Lýsið hvernig gekk að setja upp þessi tól.
