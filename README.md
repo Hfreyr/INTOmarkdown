@@ -15,7 +15,7 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
   sem ég þurfti að gera var að af klikka í usb2 í stillingum á
    virtualboxi þá var það komið  </p>
 
-![ ubuntu að ræsa sig ](12.jpg)
+![ ubuntu að ræsa sig ](/12.jpg"12")
 
 ## 2. Uppsetning á vim && git
 
@@ -32,9 +32,7 @@ Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópme�
 
 Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
 <p>Þurfti að reyna 3 áður en allt gekk smurt finna hvar á skellinni eg urfti að vera til að skipaninar virkuðu </p>
-<p>Slóð <a href="https://github.com/Hfreyr/INTOPrufa " title="HFreyr">
-linkur hérna</a>.</p>
-
+ [Linkur á gitið mitt](https://github.com/Hfreyr/INTOPrufa/)
 ## 4. Uppsettur hugbúnaður
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
