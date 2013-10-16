@@ -19,30 +19,37 @@ Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögð
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
 ## 5. Unnið með Git (2. hluti)
+
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
 	
-** Heiðar Freyr Steinunnarson **
-** 1.**
+ Heiðar Freyr Steinunnarson 
+ 
+1.
+
 það gekk bara mjög vel náði í dótið virtualboxi og ubuntu frá link
   og tvíklikkaði a ubuntu dótið það setti sig sjálft eigilega upp eina
   sem ég þurfti að gera var að af klikka í usb2 í stillingum á
    virtualboxi þá var það komið 
 ![Mynd af tolvunni](12.jpg?raw=true)
 
-** 2. **
+2.
 
 notaði leiðbeintingar á verkefninu og það gékk mjög vel 
 
 setti in leyniorðið þegar það var biðið um og svo einu sinni að samþykka</p>
 
-** 3. **
-Þurfti að reyna 3 áður en allt gekk smurt finna hvar á skellinni eg urfti að vera til að skipaninar virkuðu 
+3.
+
+Þurfti að reyna 3 sinnum áður en allt gekk smurt finna hvar á skellinni eg urfti að vera til að skipaninar virkuðu 
  [Linkur á gitið mitt](https://github.com/Hfreyr/INTOPrufa/)
-** 4. **
+
+4.
 
 * Apache OpenOffice  LGPL v3 licence
 [source code](http://openoffice.apache.org/source.html/)  
+
 * VLC   LGPLv2.1.
 [source code](http://www.videolan.org/vlc/download-sources.html/) 
+
 * notepad++  GPL License
 [surce code](http://www.afterdawn.com/software/source_codes/notepadplusplus.cfm/)
